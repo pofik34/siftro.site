@@ -17,7 +17,7 @@ export default function PaymentContent(rootElement) {
   // Set plan details based on selection
   const planDetails = plan === 'monthly' ? {
     name: 'Aylık Plan',
-    price: '₺4399',
+    price: '₺3799',
     interval: 'ay',
     features: [
       'Sınırsız veri kazıma',
@@ -36,7 +36,7 @@ export default function PaymentContent(rootElement) {
       'Excel formatında veri aktarımı',
       'Öncelikli teknik destek',
       'İptal etme garantisi',
-      '%27 indirim · ₺14.400 tasarruf'
+      '%27 indirim · ₺7.200 tasarruf'
     ]
   } : null;
 

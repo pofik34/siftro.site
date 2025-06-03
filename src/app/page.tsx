@@ -344,7 +344,7 @@ export default function HomePage() {
               <h3 className="text-2xl font-bold text-center text-gray-900">Aylık Plan</h3>
               <p className="mt-4 text-lg text-center text-gray-500">Aylık ödeme esnekliği</p>
               <div className="mt-6 text-center">
-                <span className="text-5xl font-extrabold text-gray-900">₺4399</span>
+                <span className="text-5xl font-extrabold text-gray-900">₺3799</span>
                 <span className="text-xl font-medium text-gray-500">/ay</span>
               </div>
               <ul className="mt-8 space-y-4 flex-grow">
@@ -401,7 +401,7 @@ export default function HomePage() {
                   <span className="text-xl font-medium text-gray-500">/ay</span>
                 </div>
                 <p className="mt-1 text-sm text-gray-500">Yıllık ödeme ile (₺38.388/yıl)</p>
-                <p className="mt-2 text-sm font-medium text-green-600">%27 indirim · ₺14.400 tasarruf</p>
+                <p className="mt-2 text-sm font-medium text-green-600">%27 indirim · ₺7.200 tasarruf</p>
               </div>
               <ul className="mt-8 space-y-4 flex-grow">
                 <li className="flex items-center">
