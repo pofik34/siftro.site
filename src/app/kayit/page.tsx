@@ -112,7 +112,7 @@ export default function KayitSayfasi() {
                   name="ad"
                   type="text"
                   required
-                  className="appearance-none block w-full px-4 py-3 border border-gray-300 rounded-lg placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-200"
+                  className="appearance-none block w-full px-4 py-3 border border-gray-300 rounded-lg text-black placeholder-black focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-200"
                   placeholder="Adınız Soyadınız"
                   value={formData.ad}
                   onChange={handleChange}
@@ -128,7 +128,7 @@ export default function KayitSayfasi() {
                   name="sirketAdi"
                   type="text"
                   required
-                  className="appearance-none block w-full px-4 py-3 border border-gray-300 rounded-lg placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-200"
+                  className="appearance-none block w-full px-4 py-3 border border-gray-300 rounded-lg text-black placeholder-black focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-200"
                   placeholder="Şirketinizin Adı"
                   value={formData.sirketAdi}
                   onChange={handleChange}
@@ -145,7 +145,7 @@ export default function KayitSayfasi() {
                   type="email"
                   autoComplete="email"
                   required
-                  className="appearance-none block w-full px-4 py-3 border border-gray-300 rounded-lg placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-200"
+                  className="appearance-none block w-full px-4 py-3 border border-gray-300 rounded-lg text-black placeholder-black focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-200"
                   placeholder="ornek@sirketiniz.com"
                   value={formData.email}
                   onChange={handleChange}
@@ -161,7 +161,7 @@ export default function KayitSayfasi() {
                   name="sifre"
                   type="password"
                   required
-                  className="appearance-none block w-full px-4 py-3 border border-gray-300 rounded-lg placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-200"
+                  className="appearance-none block w-full px-4 py-3 border border-gray-300 rounded-lg text-black placeholder-black focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-200"
                   placeholder="••••••••"
                   value={formData.sifre}
                   onChange={handleChange}
@@ -177,7 +177,7 @@ export default function KayitSayfasi() {
                   name="sifreTekrar"
                   type="password"
                   required
-                  className="appearance-none block w-full px-4 py-3 border border-gray-300 rounded-lg placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-200"
+                  className="appearance-none block w-full px-4 py-3 border border-gray-300 rounded-lg text-black placeholder-black focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-200"
                   placeholder="••••••••"
                   value={formData.sifreTekrar}
                   onChange={handleChange}
