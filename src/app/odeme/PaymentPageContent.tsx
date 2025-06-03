@@ -42,7 +42,7 @@ export default function PaymentPageContent() {
         'Excel formatında veri aktarımı',
         'Öncelikli teknik destek',
         'İptal etme garantisi',
-        '%27 indirim · ₺7.200 tasarruf'
+        '%16 indirim · ₺7.200 tasarruf'
       ]
     } : null;
 
